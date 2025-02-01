@@ -1,0 +1,95 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+
+}
+header {
+    text-align: center;
+    background-image:url('money).jpg') ;
+    font-weight: bold;
+    text-shadow: 0 0 rgb(0, 0, 0);
+    font-size: 40px;
+    font-family: "Marck Script", sans-serif;
+    color: rgb(255, 200, 0);
+    padding: 40px 150px;
+    border: 10px;
+}
+main {
+    padding: 80px;
+    background-image:url('7bd0ed02f51bcbda3a47c6a81102138e.jpg') ;
+    background-attachment:scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    height: auto;
+    color: #f9f9f9;
+}
+
+.line1, .line4, .line12, .line22, .line41, .line17, .line35{
+    font-size: 1.4em;
+    font-style: light;
+    font-style: normal;
+    font-family: "Nabla", sans-serif;
+
+}
+.line3, .line8, .line19, .line28, .line33, .line43{
+    font-size: 2.5em;
+    font-style: bold;
+    
+    font-family: "Mouse Memoirs", sans-serif;
+}
+.line5, .line9, .line25, .line32, .line42, .line46{
+    font-size: 1.5em;
+    font-style: bold;
+    
+    font-family: "Concert One", sans-serif;
+}
+.line30, .line7, .line18, .line10, .line36,  .line23, .line15, .line39, .line26, .line44{
+    font-size: 1.5em;
+    font-style: bold;
+    
+    font-family: "Mouse Memoirs", sans-serif;
+
+}
+.line29, .line6, .line31, .line34, .line11, .line16, .line38, .line24, .line40{
+    font-size: 1.5em;
+    font-style: bold;
+    
+    font-family: "Nabla", sans-serif;
+
+}
+.line2, .line27, .line13,.line45{
+    font-size: 1.5em;
+    font-style: bold;
+    
+    font-family: "Six Caps", sans-serif;
+
+}
+.line37, .line17, .line8, .line21, .line14 {
+    font-size: 1.5em;
+    font-style: bold;
+    
+    font-family: "Concert One", sans-serif;
+    background-color: rgb(219, 168, 0);
+
+}
+.line3 span{
+    font-size: large;
+    font-weight: lighter;
+}
+.line23 span{
+    font-size: 2.9em;
+    font-weight: lighter;
+    color:blue
+}
+.line44 span{
+    font-size: 3.1em;
+    color: red;
+    text-shadow: tomato;
+
+}
